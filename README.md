@@ -1,9 +1,9 @@
 # profile
 
->this.. is a profile...
->dear god..
->there's more...
->no...
+`` > this.. is a profile... `` <br>
+``> dear god.. `` <br>
+``> there's more...`` <br>
+`` > no... ``
 
 <!---
 nutuxedo/nutuxedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
