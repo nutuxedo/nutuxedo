@@ -1,6 +1,9 @@
-# The Game
+# profile
 
-*There's nothing to see here.*
+>this.. is a profile...
+>dear god..
+>there's more...
+>no...
 
 <!---
 nutuxedo/nutuxedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
